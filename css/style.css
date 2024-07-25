@@ -1,0 +1,20 @@
+
+h1{
+    font-size: 50px;
+}
+sub{
+    font-size: 10px;
+    font-weight:500;
+}
+span{
+    font-weight: bold;
+}
+
+@media (min-width:990px){
+    h1{
+        font-size: 100px;
+    }
+    sub{
+        font-size: 30px;
+    }
+}
